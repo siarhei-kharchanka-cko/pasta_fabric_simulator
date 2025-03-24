@@ -22,6 +22,7 @@ class MeatballMonster {
     }
 }
 
+
 const monsters = [
     new MeatballMonster("Meaty"),
     new MeatballMonster("Saucy"),
